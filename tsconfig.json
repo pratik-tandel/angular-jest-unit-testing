@@ -23,6 +23,9 @@
       "dom"
     ]
   },
+  "include": [
+    "./src/setup-jest.ts",
+  ],
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
